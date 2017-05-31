@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "283286405944",
+    "firebase_url": "https://parkingplace-f4788.firebaseio.com",
+    "project_id": "parkingplace-f4788",
+    "storage_bucket": "parkingplace-f4788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283286405944:android:30fb8c1d29319016",
+        "android_client_info": {
+          "package_name": "com.karbaros.parkingplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283286405944-6lladhsk0j1c9aos1s3ksfq4njikkn7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karbaros.parkingplace",
+            "certificate_hash": "78e83dfacb99a0ccbe561f1ddf6484c1ceff2386"
+          }
+        },
+        {
+          "client_id": "283286405944-3j5a739vnb4jgrvtpnngv19hkid3lfa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1DVuQHGXfsJO5WZKJJfXig9KiNjQg2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283286405944-3j5a739vnb4jgrvtpnngv19hkid3lfa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
